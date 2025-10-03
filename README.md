@@ -59,6 +59,8 @@ Screenshots
 **Forecast (ARIMA)**  
 ![Forecast](screenshots/sales_forecast.png)
 
+---
+
 ## **Repository Structure**
 
 KPI-Dashboard/
