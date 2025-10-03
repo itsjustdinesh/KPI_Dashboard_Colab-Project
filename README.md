@@ -27,12 +27,35 @@ Faker (Synthetic data generation)
 Google Colab (Notebook execution)
 
 📸 Screenshots
-Monthly Sales & Profit Trend
-Sales by Region
-Sales by Category
-Delivery Days Distribution
-Customer Segments
-Forecast (ARIMA)
+### 📸 Screenshots
+
+**Monthly Sales & Profit Trend**  
+![Monthly Sales](screenshots/monthly_sales_trend.png)
+
+---
+
+**Sales by Region**  
+![Sales by Region](screenshots/sales_by_region.png)
+
+---
+
+**Sales by Category**  
+![Sales by Category](screenshots/sales_by_category.png)
+
+---
+
+**Delivery Days Distribution**  
+![Delivery Days](screenshots/delivery_days_region.png)
+
+---
+
+**Customer Segments**  
+![Customer Segments](screenshots/sales_by_segment.png)
+
+---
+
+**Forecast (ARIMA)**  
+![Forecast](screenshots/sales_forecast.png)
 
 KPI-Dashboard/
 │── data/
