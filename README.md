@@ -28,7 +28,7 @@ It generates synthetic retail data, computes KPIs, visualizes business performan
 
 ---
 
-📸 Screenshots
+Screenshots
 ### Screenshots
 
 **Monthly Sales & Profit Trend**  
@@ -59,7 +59,7 @@ It generates synthetic retail data, computes KPIs, visualizes business performan
 **Forecast (ARIMA)**  
 ![Forecast](screenshots/sales_forecast.png)
 
-### 📂 Repository Structure
+### Repository Structure
 
 KPI-Dashboard/
 │
@@ -81,5 +81,6 @@ KPI-Dashboard/
 
 └── README.md                      # Project documentation
 
+---
 
 
