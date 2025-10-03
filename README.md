@@ -63,13 +63,13 @@ Screenshots
 
 KPI-Dashboard/
 │
-├── data/  
+├── **data/** 
 │   └── superstore_clean.csv       # Exported cleaned dataset
 │
-├── notebooks/  
+├── **notebooks/**  
 │   └── KPI_Dashboard_Colab.ipynb  # Main Colab notebook (project code)
 │
-├── screenshots/                   # Exported charts & visuals
+├── **screenshots/**                   # Exported charts & visuals
 │   ├── monthly_sales_trend.png
 │   ├── sales_by_region.png
 │   ├── sales_by_category.png
@@ -77,9 +77,7 @@ KPI-Dashboard/
 │   ├── sales_by_segment.png
 │   └── sales_forecast.png
 │
-└── README.md                      # Project documentation
-
-└── README.md                      # Project documentation
+└── **README.md**                      # Project documentation
 
 ---
 
