@@ -57,7 +57,7 @@ Google Colab (Notebook execution)
 **Forecast (ARIMA)**  
 ![Forecast](screenshots/sales_forecast.png)
 
-### Repository Structure
+### 📂 Repository Structure
 
 KPI-Dashboard/
 │
@@ -75,6 +75,8 @@ KPI-Dashboard/
 │   ├── sales_by_segment.png
 │   └── sales_forecast.png
 │
+└── README.md                      # Project documentation
+
 └── README.md                      # Project documentation
 
 
