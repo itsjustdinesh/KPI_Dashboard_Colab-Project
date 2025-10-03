@@ -1,30 +1,32 @@
-KPI Dashboard Development
+# **KPI Dashboard Development**
 
-A professional KPI dashboard project built in Python using Pandas, Plotly, Statsmodels.
-It generates synthetic retail data, computes KPIs, visualizes business performance, and forecasts sales using ARIMA.
+A professional KPI dashboard project built in Python using **Pandas, Plotly, Statsmodels**.  
+It generates synthetic retail data, computes KPIs, visualizes business performance, and forecasts sales using ARIMA.  
 
-Features
+---
 
-Synthetic Superstore-like dataset (Orders, Sales, Profit, Delivery).
+## **Features**
+- Synthetic **Superstore-like dataset** (Orders, Sales, Profit, Delivery).  
+- **Overall KPIs**: Revenue, Orders, Avg Order Value, Profit Margin, Delivery Days, Customers.  
+- **Visualizations**:
+  - Monthly Sales & Profit Trend  
+  - Sales by Region (Bar)  
+  - Sales by Category (Donut)  
+  - Delivery Days by Region (Box)  
+  - Customer Segment Share (Pie)  
+  - Sales Forecast (ARIMA)  
+- **Exported dataset** for reproducibility.  
 
-Overall KPIs: Revenue, Orders, Avg Order Value, Profit Margin, Delivery Days, Customers.
+---
 
-Visualizations:
-Monthly Sales & Profit Trend
-Sales by Region (Bar)
-Sales by Category (Donut)
-Delivery Days by Region (Box)
-Customer Segment Share (Pie)
-Sales Forecast (ARIMA)
+## **Tech Stack**
+- Python (Pandas, NumPy)  
+- Plotly (Interactive charts)  
+- Statsmodels (ARIMA forecasting)  
+- Faker (Synthetic data generation)  
+- Google Colab (Notebook execution)  
 
-Exported dataset for reproducibility.
-
-Tech Stack
-Python (Pandas, NumPy)
-Plotly (Interactive charts)
-Statsmodels (ARIMA forecasting)
-Faker (Synthetic data generation)
-Google Colab (Notebook execution)
+---
 
 📸 Screenshots
 ### Screenshots
