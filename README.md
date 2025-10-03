@@ -37,8 +37,10 @@ Forecast (ARIMA)
 KPI-Dashboard/
 │── data/
 │   └── superstore_clean.csv
+│
 │── notebooks/
 │   └── KPI_Dashboard_Colab.ipynb
+│
 │── screenshots/
 │   ├── monthly_sales_trend.png
 │   ├── sales_by_region.png
@@ -46,5 +48,7 @@ KPI-Dashboard/
 │   ├── delivery_days_region.png
 │   ├── sales_by_segment.png
 │   └── sales_forecast.png
-│── README.md
+│
+└── README.md
+
 
