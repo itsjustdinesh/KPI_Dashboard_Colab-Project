@@ -29,7 +29,7 @@ It generates synthetic retail data, computes KPIs, visualizes business performan
 ---
 
 Screenshots
-### Screenshots
+### KPI Dashboard
 
 ![KPI Dashboard Preview](screenshots/KPI_Dashboard.png)
 
