@@ -31,6 +31,10 @@ It generates synthetic retail data, computes KPIs, visualizes business performan
 Screenshots
 ### Screenshots
 
+![KPI Dashboard Preview](screenshots/KPI_Dashboard.png)
+
+---
+
 **Monthly Sales & Profit Trend**  
 ![Monthly Sales](screenshots/monthly_sales_trend.png)
 
